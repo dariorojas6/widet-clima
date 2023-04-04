@@ -1,0 +1,14 @@
+.container{
+    margin: 10px 0;
+}
+
+.input{
+    background-color: rgba(255, 255, 255, 0.705);
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 18px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
