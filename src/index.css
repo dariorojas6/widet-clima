@@ -6,7 +6,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
  background-image: url("https://i.pinimg.com/564x/61/cc/b4/61ccb4842c843263bfbb13e3b77bfdab.jpg");
+
  background-size: cover;
+ background-repeat: no-repeat;
 }
 
 code {
